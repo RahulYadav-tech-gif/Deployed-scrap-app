@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-d7kc$4w_j^3yi&$b2h$xfcfcb(@ptpo+=*4bgwsh@u-6fx-&0x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['deployed-scrap-app-7.onrender.com']
 
 AUTH_USER_MODEL = 'scrapapp.User'
 
